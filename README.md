@@ -9,7 +9,7 @@
   sevdiğim dizi, film ve kitaplardan bahsettiğim basit bir web sitenin hazırlanması konusunu içermektedir.
 
 
-*HTML kullanılarak hazırlanmıştır. 
+* HTML kullanılarak hazırlanmıştır. 
   
   
   
